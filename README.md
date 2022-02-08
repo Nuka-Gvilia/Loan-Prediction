@@ -6,6 +6,7 @@ build a machine learning model, which determines whether or not a person will be
 **Data:**
 
   The data consist of 614 points and 13 features. 
+  
   Features:
   
     Loan_ID: loan application id
